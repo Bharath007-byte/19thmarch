@@ -10,4 +10,6 @@ code 2
 
 #include <stdio.h>
 int main() {
-
+int a,b;
+printf("enter number a:");
+scanf("%d",&a);
