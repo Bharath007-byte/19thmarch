@@ -6,4 +6,8 @@ printf("Hello World");
 return 0;
 }
 code completed succesfully
+code 2
+
+#include <stdio.h>
+int main() {
 
